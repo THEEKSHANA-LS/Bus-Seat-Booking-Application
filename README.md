@@ -14,8 +14,8 @@ A full-stack bus seat booking system built using:
 - Admin dashboard for managing buses and bookings
 
 ## Folder Structure
-- `frontend/` – React frontend
-- `backend/` – Node.js backend
+- `frontend/`– React frontend
+- `backend/`– Node.js backend
 
 ## How to Run
 ### Backend
