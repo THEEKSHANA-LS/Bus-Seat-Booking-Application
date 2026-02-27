@@ -1,3 +1,5 @@
+//connection to the database using mysql2/promise and dotenv for environment variables
+
 import mysql from "mysql2/promise";
 import dotenv from "dotenv";
 
@@ -14,3 +16,6 @@ const pool = mysql.createPool({
 });
 
 export default pool;
+
+
+
